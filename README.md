@@ -1,2 +1,3 @@
-# cycle_detection
-This programs takes user input and creates a graph, which it will then check to see if a cycle exists.
+# File Descriptions
+
+```Graph.cpp``` is an algorithm that creates a graph based on user input and detects whether there is a a cycle in the graph or not.
