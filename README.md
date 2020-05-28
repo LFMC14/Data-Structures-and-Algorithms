@@ -4,4 +4,4 @@
 
 ```MergeSort.cpp``` makes use of merge sort to sort a list of numbers in descending order.
 
-```Replace.cpp``` uses recursion to replace all instances of one number by another.
+```Replace.cpp``` uses recursion to replace all instances of one number by another within a list.
